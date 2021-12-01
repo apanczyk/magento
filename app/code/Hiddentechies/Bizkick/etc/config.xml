@@ -35,13 +35,13 @@
                 <footer_rd_column>footer_payment_shipping</footer_rd_column>
             </footer_columns>
             <footer_contant>
-                <address>265, Lorem Street, New York, 32456, United States</address>
-                <email>info@yourdomain.com</email>
-                <phone>+1 234 567 8901</phone>
+                <address>Koszykowa 86, 02-008 Warsaw, Poland</address>
+                <email>info@bailando.com</email>
+                <phone>+48 225844500</phone>
             </footer_contant>
             <footer_bottom>
                 <enable_footer_bottom>1</enable_footer_bottom>
-                <copyright_text>Copyright 2018 Bizkick. All rights reserved.</copyright_text>
+                <copyright_text>Copyright 2021. All rights reserved.</copyright_text>
                 <copyright_right_block>payment-icons</copyright_right_block>
             </footer_bottom>
             <customcss>
