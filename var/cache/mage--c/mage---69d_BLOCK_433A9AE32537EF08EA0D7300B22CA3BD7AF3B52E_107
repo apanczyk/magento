@@ -1,0 +1,32 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1642341125;s:6:"expire";i:1642344725;s:4:"tags";s:47:"69d_BLOCK_HTML,69d_CAT_P_107,69d_CAT_P,69d_MAGE";}
+                <div class="swatch-opt-107"
+         data-role="swatch-option-107"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-107]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"93":{"id":"93","code":"color","label":"Color","options":[{"id":"49","label":"Dark beige","products":["105","106"]},{"id":"50","label":"Old rose","products":["103","104"]}],"position":"0"},"140":{"id":"140","code":"size","label":"Size","options":[{"id":"31","label":"XL","products":["103","105"]},{"id":"33","label":"XXXL","products":["104","106"]}],"position":"1"}},"template":"PLN\u00a0<%- data.price %>","currencyFormat":"PLN\u00a0%s","optionPrices":{"103":{"baseOldPrice":{"amount":17.99},"oldPrice":{"amount":17.99},"basePrice":{"amount":17.99},"finalPrice":{"amount":17.99},"tierPrices":[],"msrpPrice":{"amount":0}},"104":{"baseOldPrice":{"amount":17.99},"oldPrice":{"amount":17.99},"basePrice":{"amount":17.99},"finalPrice":{"amount":17.99},"tierPrices":[],"msrpPrice":{"amount":0}},"105":{"baseOldPrice":{"amount":17.99},"oldPrice":{"amount":17.99},"basePrice":{"amount":17.99},"finalPrice":{"amount":17.99},"tierPrices":[],"msrpPrice":{"amount":0}},"106":{"baseOldPrice":{"amount":17.99},"oldPrice":{"amount":17.99},"basePrice":{"amount":17.99},"finalPrice":{"amount":17.99},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"PLN\u00a0%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":17.99},"oldPrice":{"amount":17.99},"basePrice":{"amount":17.99},"finalPrice":{"amount":17.99}},"productId":"107","chooseText":"Choose an Option...","images":[],"index":{"103":{"93":"50","140":"31"},"104":{"93":"50","140":"33"},"105":{"93":"49","140":"31"},"106":{"93":"49","140":"33"}},"channel":"website","salesChannelCode":"base","sku":{"103":"Satin blouse-Old rose-XL","104":"Satin blouse-Old rose-XXXL","105":"Satin blouse-Dark beige-XL","106":"Satin blouse-Dark beige-XXXL"}},
+                    "jsonSwatchConfig": [],
+                    "mediaCallback": "http\u003A\u002F\u002F134.209.227.165\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-107]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"PLN\u00a0%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":17.99},"oldPrice":{"amount":17.99},"basePrice":{"amount":17.99},"finalPrice":{"amount":17.99}}                    }
+                }
+            }
+        }
+    </script>

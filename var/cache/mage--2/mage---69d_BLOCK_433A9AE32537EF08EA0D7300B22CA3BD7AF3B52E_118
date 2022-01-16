@@ -1,0 +1,32 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1642341124;s:6:"expire";i:1642344724;s:4:"tags";s:47:"69d_BLOCK_HTML,69d_CAT_P_118,69d_CAT_P,69d_MAGE";}
+                <div class="swatch-opt-118"
+         data-role="swatch-option-118"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-118]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"93":{"id":"93","code":"color","label":"Color","options":[{"id":"52","label":"Light beige","products":["114","115","116","117"]},{"id":"53","label":"Light turquoise","products":["110","111","112","113"]}],"position":"0"},"140":{"id":"140","code":"size","label":"Size","options":[{"id":"27","label":"XS","products":["110","114"]},{"id":"29","label":"M","products":["112","116"]},{"id":"32","label":"XXL","products":["113","117"]},{"id":"33","label":"XXXL","products":["111","115"]}],"position":"1"}},"template":"PLN\u00a0<%- data.price %>","currencyFormat":"PLN\u00a0%s","optionPrices":{"110":{"baseOldPrice":{"amount":24.99},"oldPrice":{"amount":24.99},"basePrice":{"amount":24.99},"finalPrice":{"amount":24.99},"tierPrices":[],"msrpPrice":{"amount":0}},"111":{"baseOldPrice":{"amount":24.99},"oldPrice":{"amount":24.99},"basePrice":{"amount":24.99},"finalPrice":{"amount":24.99},"tierPrices":[],"msrpPrice":{"amount":0}},"112":{"baseOldPrice":{"amount":24.99},"oldPrice":{"amount":24.99},"basePrice":{"amount":24.99},"finalPrice":{"amount":24.99},"tierPrices":[],"msrpPrice":{"amount":0}},"113":{"baseOldPrice":{"amount":24.99},"oldPrice":{"amount":24.99},"basePrice":{"amount":24.99},"finalPrice":{"amount":24.99},"tierPrices":[],"msrpPrice":{"amount":0}},"114":{"baseOldPrice":{"amount":24.99},"oldPrice":{"amount":24.99},"basePrice":{"amount":24.99},"finalPrice":{"amount":24.99},"tierPrices":[],"msrpPrice":{"amount":0}},"115":{"baseOldPrice":{"amount":24.99},"oldPrice":{"amount":24.99},"basePrice":{"amount":24.99},"finalPrice":{"amount":24.99},"tierPrices":[],"msrpPrice":{"amount":0}},"116":{"baseOldPrice":{"amount":24.99},"oldPrice":{"amount":24.99},"basePrice":{"amount":24.99},"finalPrice":{"amount":24.99},"tierPrices":[],"msrpPrice":{"amount":0}},"117":{"baseOldPrice":{"amount":24.99},"oldPrice":{"amount":24.99},"basePrice":{"amount":24.99},"finalPrice":{"amount":24.99},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"PLN\u00a0%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":24.99},"oldPrice":{"amount":24.99},"basePrice":{"amount":24.99},"finalPrice":{"amount":24.99}},"productId":"118","chooseText":"Choose an Option...","images":[],"index":{"110":{"93":"53","140":"27"},"111":{"93":"53","140":"33"},"112":{"93":"53","140":"29"},"113":{"93":"53","140":"32"},"114":{"93":"52","140":"27"},"115":{"93":"52","140":"33"},"116":{"93":"52","140":"29"},"117":{"93":"52","140":"32"}},"channel":"website","salesChannelCode":"base","sku":{"110":"Faux shearling dressing gown-Light turquoise-XS","111":"Faux shearling dressing gown-Light turquoise-XXXL","112":"Faux shearling dressing gown-Light turquoise-M","113":"Faux shearling dressing gown-Light turquoise-XXL","114":"Faux shearling dressing gown-Light beige-XS","115":"Faux shearling dressing gown-Light beige-XXXL","116":"Faux shearling dressing gown-Light beige-M","117":"Faux shearling dressing gown-Light beige-XXL"}},
+                    "jsonSwatchConfig": [],
+                    "mediaCallback": "http\u003A\u002F\u002F134.209.227.165\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-118]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"PLN\u00a0%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":24.99},"oldPrice":{"amount":24.99},"basePrice":{"amount":24.99},"finalPrice":{"amount":24.99}}                    }
+                }
+            }
+        }
+    </script>

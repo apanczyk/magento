@@ -1,0 +1,32 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1642341125;s:6:"expire";i:1642344725;s:4:"tags";s:47:"69d_BLOCK_HTML,69d_CAT_P_102,69d_CAT_P,69d_MAGE";}
+                <div class="swatch-opt-102"
+         data-role="swatch-option-102"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-102]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"93":{"id":"93","code":"color","label":"Color","options":[{"id":null,"label":false,"products":["98","99"]},{"id":"46","label":"Light pink","products":["96","97"]},{"id":"47","label":"Turquoise","products":["100","101"]}],"position":"0"},"140":{"id":"140","code":"size","label":"Size","options":[{"id":"27","label":"XS","products":["96","98","100"]},{"id":"28","label":"S","products":["97","99","101"]}],"position":"1"}},"template":"PLN\u00a0<%- data.price %>","currencyFormat":"PLN\u00a0%s","optionPrices":{"96":{"baseOldPrice":{"amount":1},"oldPrice":{"amount":1},"basePrice":{"amount":1},"finalPrice":{"amount":1},"tierPrices":[],"msrpPrice":{"amount":0}},"97":{"baseOldPrice":{"amount":1},"oldPrice":{"amount":1},"basePrice":{"amount":1},"finalPrice":{"amount":1},"tierPrices":[],"msrpPrice":{"amount":0}},"98":{"baseOldPrice":{"amount":1},"oldPrice":{"amount":1},"basePrice":{"amount":1},"finalPrice":{"amount":1},"tierPrices":[],"msrpPrice":{"amount":0}},"99":{"baseOldPrice":{"amount":1},"oldPrice":{"amount":1},"basePrice":{"amount":1},"finalPrice":{"amount":1},"tierPrices":[],"msrpPrice":{"amount":0}},"100":{"baseOldPrice":{"amount":1},"oldPrice":{"amount":1},"basePrice":{"amount":1},"finalPrice":{"amount":1},"tierPrices":[],"msrpPrice":{"amount":0}},"101":{"baseOldPrice":{"amount":1},"oldPrice":{"amount":1},"basePrice":{"amount":1},"finalPrice":{"amount":1},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"PLN\u00a0%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":1},"oldPrice":{"amount":1},"basePrice":{"amount":1},"finalPrice":{"amount":1}},"productId":"102","chooseText":"Choose an Option...","images":[],"index":{"96":{"93":"46","140":"27"},"97":{"93":"46","140":"28"},"98":{"93":null,"140":"27"},"99":{"93":null,"140":"28"},"100":{"93":"47","140":"27"},"101":{"93":"47","140":"28"}},"channel":"website","salesChannelCode":"base","sku":{"96":"Relaxed Fit Printed T-shirt-Light pink\/Justin Bieber-XS","97":"Relaxed Fit Printed T-shirt-Light pink\/Justin Bieber-S","98":"Relaxed Fit Printed T-shirt-White\/Smiley-XS","99":"Relaxed Fit Printed T-shirt-White\/Smiley-S","100":"Relaxed Fit Printed T-shirt-Turquoise\/Smiley-XS","101":"Relaxed Fit Printed T-shirt-Turquoise\/Smiley-S"}},
+                    "jsonSwatchConfig": [],
+                    "mediaCallback": "http\u003A\u002F\u002F134.209.227.165\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-102]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"PLN\u00a0%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":1},"oldPrice":{"amount":1},"basePrice":{"amount":1},"finalPrice":{"amount":1}}                    }
+                }
+            }
+        }
+    </script>
