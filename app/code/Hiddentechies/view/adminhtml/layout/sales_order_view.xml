@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="admin-2columns-left" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+   <body>
+       <referenceContainer name="left">
+           <referenceBlock name="sales_order_tabs">
+               <action method="addTab">
+                   <argument name="name" xsi:type="string">custom_tab</argument>
+                   <argument name="block" xsi:type="string">Magenest\CustomSection\Block\Adminhtml\Order\View\Tab\CustomTab</argument>
+               </action>
+           </referenceBlock>
+           <referenceBlock name="order_additional_info">
+                <block class="Magenest\CustomSection\Block\Adminhtml\Order\View\View" name="sales_custom_view" template="order/view/view.phtml" />
+       </referenceBlock>
+       </referenceContainer>
+   </body>
+</page>
