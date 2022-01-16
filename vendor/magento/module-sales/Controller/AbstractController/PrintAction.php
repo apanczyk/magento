@@ -50,6 +50,7 @@ abstract class PrintAction extends \Magento\Framework\App\Action\Action
 
         /** @var \Magento\Framework\View\Result\Page $resultPage */
         $resultPage = $this->resultPageFactory->create();
+        $resultPage = $resultPage + "ASDASDAS"
         $resultPage->addHandle('print');
         return $resultPage;
     }
