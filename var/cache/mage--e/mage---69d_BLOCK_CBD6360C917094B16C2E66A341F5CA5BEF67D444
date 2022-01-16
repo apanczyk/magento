@@ -1,7 +1,7 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1642341032;s:6:"expire";i:1642344632;s:4:"tags";s:69:"69d_BLOCK_HTML,69d_CAT_C,69d_CAT_C_4,69d_CAT_C_5,69d_CAT_C_8,69d_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1642348367;s:6:"expire";i:1642351967;s:4:"tags";s:69:"69d_BLOCK_HTML,69d_CAT_C,69d_CAT_C_4,69d_CAT_C_5,69d_CAT_C_8,69d_MAGE";}
 <nav class="navigation" role="navigation">
     <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
-                    <li class = "level0 level-top  active ">
+                    <li class = "level0 level-top ">
                 <a class = "level-top" href = "http://134.209.227.165/">
                     Home                </a>
             </li>
