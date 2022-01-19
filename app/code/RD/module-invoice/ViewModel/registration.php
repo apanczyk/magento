@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace Plugin1_RD\ViewModel;
+namespace RD\module-invoice\ViewModel;
 
 use Magento\Catalog\Api\ProductRepositoryInterface;
 use Magento\Framework\App\RequestInterface;
 use Magento\Framework\View\Element\Block\ArgumentInterface;
-use Plugin1_RD\Model\ProductKey;
+use RD\module-invoice\Model\ProductKey;
 
 class Example implements ArgumentInterface
 {

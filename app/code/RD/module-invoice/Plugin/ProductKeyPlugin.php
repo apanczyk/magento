@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Plugin1_RD\Plugin;
+namespace RD\module-invoice\Plugin;
 
 use Magento\Catalog\Api\Data\ProductInterface;
-use Plugin1_RD\Model\ProductKey;
+use RD\module-invoice\Model\ProductKey;
 
 class ProductKeyPlugin
 {

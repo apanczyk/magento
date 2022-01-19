@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Plugin1_RD\Controller\Index;
+namespace RD\module-invoice\Controller\Index;
 
 use Magento\Framework\App\ActionInterface;
 use Magento\Framework\View\Result\PageFactory;
